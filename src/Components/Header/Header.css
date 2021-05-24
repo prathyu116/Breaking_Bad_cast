@@ -1,0 +1,15 @@
+header {
+    height: 200px;
+    display: flex;
+  }
+  
+  header img {
+    width: 200px;
+  }
+  
+  .center {
+   
+    align-items: center;
+    justify-content: center;
+  
+  }
