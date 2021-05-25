@@ -2,6 +2,7 @@
   "name": "todoapp1",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://prathyu116.github.io/Breaking_Bad_cast",
   "dependencies": {
     "axios": "^0.21.1",
     "cra-template": "1.0.3",
